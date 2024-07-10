@@ -1,0 +1,80 @@
+*{
+    background-color: black;
+    
+    padding: 0%;
+}
+
+.header{
+         display: inline;
+           color: white;
+           margin-top: 20px;
+}
+
+ul,li{
+    display:inline-block;
+      margin-top: -10px;
+      color: gray;
+}
+
+li:hover{
+    color: white;
+    cursor: pointer;
+}
+
+.one{
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    display:inline-block;
+    width: 220px;
+    background-color: white;
+    
+}
+
+.food{
+    text-align: center;
+    background-color: white;
+    padding: 20px;
+}
+
+p,b{
+  background-color: white;
+}
+
+h6{
+    color: white;
+    background-color: black;
+    display: inline;
+}
+
+h6:hover{
+color: black;
+cursor: pointer;
+background-color: white;
+}
+.two{
+    color: white;
+    margin-top: -3px;
+}
+
+label{
+    margin-right: 11px;
+}
+
+.contact input[type="text"]{
+    color: black;
+    background-color: white;
+}
+.contact button[type="submit"]{
+    background-color: yellow;
+    color: black;
+    padding: 2px;
+    margin: 4px;
+    width: 400px;
+}
+.contact h1{
+    display: inline-block;
+    margin-bottom: -3px;
+    margin-right: -32px;
+
+}
